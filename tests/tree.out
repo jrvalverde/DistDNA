@@ -1,0 +1,21 @@
+Distance Matrix
+---------------
+Uncorrected for Multiple Substitutions
+Using base positions 123 in the codon
+Gap weighting is 0.000000
+
+	       1	       2	       3	       4	       5	       6	       7	       8	       9	      10	      11	      12	      13	      14
+	  0.00	 16.60	 39.75	 42.50	 24.61	 14.34	 14.73	 14.34	 14.34	 60.66	 70.86	 71.51	 69.05	 70.87		DL;Chimpancé 1
+		  0.00	 39.45	 46.58	 24.08	 24.16	 20.82	 20.07	 20.07	 62.60	 76.00	 74.42	 70.24	 68.75		DL;Gorila 2
+			  0.00	 35.40	 34.64	 44.98	 36.33	 35.99	 35.99	 62.10	 66.06	 63.58	 67.72	 66.15		DL;Macaco_japonés 3
+				  0.00	 40.00	 43.12	 42.50	 43.75	 43.12	 61.86	 67.32	 63.58	 65.31	 66.39		DL;Tití 4
+					  0.00	 24.61	 24.08	 23.56	 24.08	 63.41	 71.43	 71.51	 67.86	 65.62		DL;Orangután_de_Sumatra 5
+						  0.00	 19.29	 19.58	 20.18	 63.11	 71.43	 72.09	 69.05	 70.08		DL;H.sapiens_neanderthalensis 6
+							  0.00	  0.87	  0.87	 61.48	 71.43	 72.09	 69.64	 69.29		DL;Aborigen_australiano 7
+								  0.00	  0.58	 63.11	 72.00	 72.67	 69.64	 68.50		DL;H.sapiens_Indonesio 8
+									  0.00	 62.30	 71.43	 72.67	 70.83	 70.08		DL;H.sapiens_sapiens 9
+										  0.00	 59.32	 60.00	 61.34	 60.68		DL;Geospiza_magnirostris-ave 10
+											  0.00	 19.92	 48.53	 46.03		DL;Caretta_caretta-tortuga 11
+												  0.00	 45.89	 45.67		DL;tortuga_de_mar_verde 12
+													  0.00	 27.56		DL;Caballo_árabe 13
+														  0.00		DL;Cerdo 14

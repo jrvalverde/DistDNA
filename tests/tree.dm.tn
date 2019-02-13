@@ -1,0 +1,22 @@
+Distance Matrix
+---------------
+
+Using the Tajima-Nei correction method
+Using base positions 123 in the codon
+Gap weighting is 0.000000
+
+	    1	    2	    3	    4	    5	    6	    7	    8	    9	    10	    11	    12	    13	    14
+	  0.00	 18.89	 59.49	 66.63	 30.41	 16.33	 16.91	 16.39	 16.39	146.05	282.41	303.83	206.49	280.80		Chimpancé 1
+		  0.00	 57.69	 75.91	 29.82	 29.74	 24.90	 23.80	 23.80	174.02	nan	nan	223.94	216.96		Gorila 2
+			  0.00	 48.56	 47.39	 71.23	 50.75	 50.04	 50.04	176.49	175.55	158.29	198.25	174.35		Macaco_japonés 3
+				  0.00	 59.98	 66.79	 65.02	 68.54	 66.64	163.70	212.98	168.02	173.36	179.94		Tití 4
+					  0.00	 30.28	 29.44	 28.61	 29.37	172.06	302.08	275.07	184.34	170.64		Orangután_de_Sumatra 5
+						  0.00	 22.60	 23.01	 23.84	173.84	344.06	388.63	203.57	243.66		H.sapiens_neanderthalensis 6
+							  0.00	  0.88	  0.88	155.78	364.36	419.54	213.83	224.79		Aborigen_australiano 7
+								  0.00	  0.59	176.27	nan	nan	214.79	208.27		H.sapiens_Indonesio 8
+									  0.00	163.52	367.23	nan	238.71	247.19		H.sapiens_sapiens 9
+										  0.00	167.96	164.47	157.17	157.48		Geospiza_magnirostris-ave 10
+											  0.00	 24.04	 83.53	 78.33		Caretta_caretta-tortuga 11
+												  0.00	 72.85	 76.48		tortuga_de_mar_verde 12
+													  0.00	 35.86		Caballo_árabe 13
+														  0.00		Cerdo 14

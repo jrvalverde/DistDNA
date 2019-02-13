@@ -1,0 +1,27 @@
+head	1.1;
+access;
+symbols;
+locks
+	jr:1.1; strict;
+comment	@# @;
+
+
+1.1
+date	2009.09.16.21.19.27;	author jr;	state Exp;
+branches;
+next	;
+
+
+desc
+@Makefile for distdna [j]
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@distdna:	distdna.c
+	cc -g3 -o distdna distdna.c -lm
+@
